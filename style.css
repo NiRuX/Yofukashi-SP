@@ -1,15 +1,15 @@
 :root {
     --color-bg: #000000;
-    --color-fg: #EADBB2;
+    --color-fg: #ffffff;
     --color-link: #8F9191;
-    --color-link-visited: #668F8B;
-    --color-link-hover: #FA7921 ;
+    --color-link-visited: #bfc8c4;
+    --color-link-hover: #898080 ;
 }
 
 html, body {
   background: var(--color-bg);
   color: var(--color-fg);
-  font-family: "Fira Code";
+  font-family: "Segoe UI";
   height: 100%;
   width: 100%;
   margin: 0;
