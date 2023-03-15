@@ -9,5 +9,5 @@ with some personal inclusions to make it feel more personal.
 * [❓] Add Crypto Tracker at the bottom
 * [✔️] Modified Color Palette
 * [❓] Add smooth transition once page loads in.
-* [  ] Add Mobile Compatiblity
-* [  ] Add Search Bar
+* [❓] Add Mobile Compatiblity
+* [❓] Add Search Bar
