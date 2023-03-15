@@ -1,12 +1,11 @@
-# Startpage
+# startpage
+This is my personal startpage forked from [https://github.com/kencx/startpage]
+with some personal inclusions to make it feel more personal.
 
-[Live Preview](https://kencx.github.io/startpage/)
+# Requirements
+* NONE (May change)
 
-Feel free to fork and make your own changes!
-
-- Font: Fira Code
-- Colorscheme: Gruvbox Dark
-- Cat Gif: [Here](https://twitter.com/avogado6/status/1165595520967954432?s=19)
-
-![startpage](startpage.gif)
-
+# TODO
+* [❓] Add Crypto Tracker at the bottom
+* [✔️] Modified Color Palette
+* [❓] Add smooth transition once page loads in.
