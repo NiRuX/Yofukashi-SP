@@ -1,4 +1,4 @@
-# startpage
+# NightOwls SP
 This is my personal startpage forked from [https://github.com/kencx/startpage]
 with some personal inclusions to make it feel more personal.
 
